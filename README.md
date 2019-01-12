@@ -1,7 +1,6 @@
 # reSkype
 
-Overwrites the application blacklist in SceShell
-(Enables Skype apps on 3.65+)
+Just a simple plugin to enable the Skype app on 3.65+
 
 Install under \*main
 
