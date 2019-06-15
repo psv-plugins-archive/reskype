@@ -6,8 +6,9 @@ Install under \*main
 
 Download: https://bitbucket.org/SilicaAndPina/reskype/downloads/reSkype.suprx  
 
-NOTE: This plugin simply overwrites the blacklist in SceShell, it does NOT mean the application will acturally work,
-from what i recall it only works if your account was made BEFORE the microsoft takeover.
+NOTE: This plugin simply overwrites the blacklist in SceShell, this means the application will "run" but you may not be able to do
+much of anything with it from what i recall it only works if your account was made BEFORE the microsoft takeover.
+also please stop asking for a 3.60 version, as the blacklist does not exist in firmwares before 3.65.
 
 Skype app itself:     
     
